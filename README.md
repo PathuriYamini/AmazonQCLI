@@ -47,4 +47,4 @@ So go ahead — roll the dice, experiment with your own projects, and see what y
 
 You can view my game here! https://youtu.be/L2tIe_na6xA?si=22pZt_mB5P4I26BY
 
-#AmazonQCLI #amazon #aws #amazonqcli #games
+#AmazonQCLI #amazon #aws #amazonqcli #games #BuildGamesChallenge #AmazonQDevCLI
